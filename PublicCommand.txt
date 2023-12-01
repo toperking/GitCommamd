@@ -7,7 +7,7 @@ git checkout master 更改到master庫。
 git pull 將伺服器最新的更改獲取到本地。
 git merge local master 將本地的local合併到遠端的master上。
 git push origin master 正式提交到遠端的master伺服器上。
-git branch -M main 變更master ot main
+git branch -M main 變更master or main
 還有“git tag”，“git diff”，“git show”，“git log”，“git remote”等。
 ————————————————
 版权声明：本文为CSDN博主「程序员_大白」的原创文章，遵循CC 4.0 BY-SA版权协议，转载请附上原文出处链接及本声明。
