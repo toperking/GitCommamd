@@ -1,0 +1,4 @@
+1.在資料夾建立檔案
+2 git   add "檔名.副檔名"
+3.git  commit -m  "建立注解"
+4.git push origin master(/main)
